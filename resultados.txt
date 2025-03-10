@@ -1,0 +1,29 @@
+Instância              | Valor da Solução BRKGA | Tempo de Execução (s) | Valor da Solução Ótima | Gap (%)
+--------------------------------------------------------------------------------------------------------------
+instancia1.txt         | 30369                 | 7.31                   | 30369                  | 0.00
+instancia2.txt         | 29768                 | 7.763                  | 29768                  | 0.00
+instancia3.txt         | 25859                 | 7.607                  | 25859                  | 0.00
+instancia4.txt         | 25015                 | 7.841                  | 25035                  | 0.08
+instancia5.txt         | 35093                 | 8.138                  | 35130                  | 0.11
+instancia6.txt         | 33880                 | 8.279                  | 33880                  | 0.00
+instancia7.txt         | 26001                 | 8.107                  | 26001                  | 0.00
+instancia8.txt         | 27932                 | 8.279                  | 27976                  | 0.16
+instancia9.txt         | 30817                 | 8.699                  | 30893                  | 0.25
+instancia10.txt        | 36117                 | 9.557                  | 36151                  | 0.09
+instancia11.txt        | 29605                 | 8.515                  | 29607                  | 0.01
+instancia12.txt        | 27430                 | 9.374                  | 27447                  | 0.06
+instancia13.txt        | 30382                 | 8.657                  | 30382                  | 0.00
+instancia14.txt        | 34360                 | 8.857                  | 34365                  | 0.01
+instancia15.txt        | 36444                 | 9.325                  | 36444                  | 0.00
+instancia16.txt        | 38440                 | 9.175                  | 38440                  | 0.00
+instancia17.txt        | 37513                 | 9.124                  | 37526                  | 0.03
+instancia18.txt        | 34924                 | 9.234                  | 34924                  | 0.00
+instancia19.txt        | 32756                 | 9.39                   | 32756                  | 0.00
+instancia20.txt        | 33295                 | 9.468                  | 33295                  | 0.00
+instancia21.txt        | 32194                 | 9.593                  | 32194                  | 0.00
+instancia22.txt        | 35467                 | 9.559                  | 35497                  | 0.08
+instancia23.txt        | 41194                 | 9.58                   | 41256                  | 0.15
+instancia24.txt        | 39511                 | 9.891                  | 39511                  | 0.00
+instancia25.txt        | 44044                 | 10.093                 | 44044                  | 0.00
+
+Gap Médio Final:       |                       |                        |                        | 0.05
